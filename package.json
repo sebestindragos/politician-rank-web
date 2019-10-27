@@ -1,0 +1,57 @@
+{
+  "name": "politician-rank-web",
+  "version": "1.0.0",
+  "description": "Politician Rank Web App",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebestindragos/politician-rank-web.git"
+  },
+  "author": "Dragos Sebestin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebestindragos/politician-rank-web/issues"
+  },
+  "homepage": "https://github.com/sebestindragos/politician-rank-web#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.20",
+    "@types/node": "12.11.7",
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.3",
+    "@types/react-router-dom": "^5.1.0",
+    "create-react-app": "^3.2.0",
+    "create-react-app-stylus": "^1.1.1",
+    "css-loader": "^3.2.0",
+    "react-scripts": "3.2.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "typescript": "3.6.4"
+  }
+}
