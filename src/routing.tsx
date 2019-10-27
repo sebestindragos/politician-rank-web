@@ -6,9 +6,7 @@ import HomePage from "./pages/home";
 const Router = () => {
   return (
     <BrowserRouter>
-      <div>
-        <Route path="/" exact component={HomePage} />
-      </div>
+      <Route path="/" exact component={HomePage} />
     </BrowserRouter>
   );
 };
