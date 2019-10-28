@@ -37,6 +37,7 @@
   "dependencies": {
     "black-kit": "git+https://github.com/creativetimofficial/blk-design-system.git",
     "bootstrap": "^4.3.1",
+    "formik": "^2.0.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2"
